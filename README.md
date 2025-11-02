@@ -1,5 +1,7 @@
-Note: To access the files, download “Counselling Budget Tracker_Residential Services.xlsx.”
-For a step-by-step walkthrough, download “Step-by-Step Guide_Counselling Budget Tracker – Residential Services Practical Solution.pdf.”
+Note: To access the files, download “Counselling Budget Tracker_Residential Services.xlsx.” on your left side Pane.
+For a step-by-step walkthrough, download “Step-by-Step Guide_Counselling Budget Tracker – Residential Services Practical Solution.pdf.” on your left side Pane.
+
+
 
 # Counselling-Budget-Tracker-Portfolio
 Excel-based budget tracking tool for residential services counselling, built as a Program Assistant.
